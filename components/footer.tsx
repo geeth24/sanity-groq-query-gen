@@ -17,7 +17,7 @@ function Footer() {
           <p className="text-xs sm:text-sm md:text-base">
             Built by{' '}
             <span className="font-bold">
-              <Link href="https://geethg.com" className="underline">
+              <Link href="https://geethgunna.com" className="underline">
                 Geeth<VisuallyHidden>Geeth Gunnampalli</VisuallyHidden>
               </Link>
             </span>
